@@ -1,4 +1,6 @@
 {
+    "name": "Chat",
+    "description": "Chat demo",
     "require": {
         "cboden/ratchet": "^0.4.1"
     },

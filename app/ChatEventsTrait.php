@@ -1,5 +1,7 @@
 <?php
 
+namespace App;
+
 use Ratchet\ConnectionInterface;
 
 trait ChatEventsTrait
